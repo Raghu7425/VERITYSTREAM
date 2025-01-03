@@ -1,0 +1,12 @@
+dotenv==1.0.0
+youtube-transcript-api==0.4.4
+streamlit==1.26.0
+os-dummy==0.1.0  # Built-in, no installation needed
+pandas==1.5.3
+folium==0.14.0
+streamlit-folium==0.10.0
+speechrecognition==3.8.1
+pytube==15.0.0
+ffmpeg-python==0.2.0
+subprocess-dummy==0.1.0  # Built-in, no installation needed
+google-generativeai==1.0.0
